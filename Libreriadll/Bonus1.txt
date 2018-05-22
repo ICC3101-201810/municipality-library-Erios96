@@ -1,0 +1,7 @@
+Bonus 1: no se puede hacer el programa ya que para poder crear a una persona deben existir dos personas antes (sus padres),
+ por esto el programa jamas podra correr ya que una clase persona necesita dos personas ya creadas. Esto es un problema de asociacion 
+ya que el programa no puede funcionar asi y sera un error que no se puede solucuionar. Tampoco se podran crear direcciones ni autos
+ya que estos tambien necesitan un dueño que es un objeto de tipo persona.
+Por esto no se puede hacer la pregunta 2 del programa.
+
+Bonus 2: tampoco se puede hacer este bonus debido al error del bonus 2.
